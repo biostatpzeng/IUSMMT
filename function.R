@@ -2,7 +2,7 @@ Calculate_Pvalue <- function(M,G,X,OS){
   ####################################################################################################################################
   #########################################                   Function body                ###########################################
   ####################################################################################################################################
- ####### INPUT
+  ####### INPUT
   ####### M : High-dimensional exposures that can be either data.frame or matrix. Rows represent samples, columns represent variables
   ####### G : Independent variable that is a vector
   ####### X : covariables that can be either data.frame or matrix
