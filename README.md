@@ -45,7 +45,7 @@ quantifies the association between the survival risk and methylation loci M, <a 
 
 #### Step 4: Intersection-union survival mixture-adjusted mediation test (IUSMMT) ####
  
-IUSMMT verify whether a given gene has mediation effect on the path from methylation CpG sites to the survival risk by testing for:
+IUSMMT examines whether a given gene has mediation effect on the path from methylation CpG sites to the survival risk by testing for:
 <p align="center">
 <a href="https://www.codecogs.com/eqnedit.php?latex=H_{0}:\boldsymbol{\alpha&space;}=\beta&space;=0\Leftrightarrow&space;H_{0}:\tau&space;_{2}=\beta&space;=0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?H_{0}:\boldsymbol{\alpha&space;}=\beta&space;=0\Leftrightarrow&space;H_{0}:\tau&space;_{2}=\beta&space;=0" title="H_{0}:\boldsymbol{\alpha }=\beta =0\Leftrightarrow H_{0}:\tau _{2}=\beta =0" /></a>
 </p>
