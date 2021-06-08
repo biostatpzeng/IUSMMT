@@ -51,9 +51,6 @@ IUSMMT verify whether a given gene has mediation effect on the path from methyla
 </p>
 This is a joint test including both fixed effect and random effects: the first component of H0 examines the influence of methylation on the gene expression; while the second component examines the impact of gene expression on the survival outcome. Briefly, we derive the test statistic for θ under H0: θ = 0 and τ = 0 as usual, while we derive the score statistic for τ under τ = 0 but without the constraint of θ = 0. By doing this, we ensure that these two statistics are independent. This strategy substantially eases the development of test statistics for the joint test. In conclusion, under this framework two asymptotically independent statistics can be derived: one for the variance component (i.e. τ2) in the generalized linear model and the other for the fixed effect (i.e. <a href="https://www.codecogs.com/eqnedit.php?latex=\beta" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\beta" title="\beta" /></a>) in the KM Cox model.
 
-# Example
-The example of IEHC is shown in [Example.md](https://github.com/biostatLu/IEHC/blob/main/Example.md)
-
 # References
 Lin X, Cai T, Wu MC, Zhou Q, Liu G, et al. (2011) Kernel machine SNP-set analysis for censored survival outcomes in genome-wide association studies. Genet Epidemiol 35: 620-631.[DOI: 10.1002/gepi.20610](https://onlinelibrary.wiley.com/doi/abs/10.1002/gepi.20610)
 
