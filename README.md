@@ -64,7 +64,7 @@ Zhang H, Zheng Y, Zhang Z, Gao T, Joyce B, et al. (2016) Estimating and testing 
 
 
 # Cite
-Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Meng Zhang, Zhou Jiang, Shuiping Huang<sup>#</sup> and Ping Zeng<sup>#</sup> (2021). IUSMMT: survival mediation analysis of gene expression with multiple DNA methylation exposures and its application to cancers of TCGA.
+Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Meng Zhang, Zhou Jiang, Shuiping Huang<sup>#</sup> and Ping Zeng<sup>#</sup> (2021). IUSMMT: survival mediation analysis of gene expression with multiple DNA methylation exposures and its application to cancers of TCGA. PLOS Computational Biology (in press).
 
 
 # Contact
